@@ -1,8 +1,1 @@
-Name: Zhicheng Li
-Section: 21770
-UFL Email: zli5@ufl.edu
-System: Windows 11 (64 bit architecture)
-Compiler: g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 7.3.0
-SFML version: SFML 2.5.1
-IDE: Clion
-Other notes: None
+Minesweeper is coded with C++ and the SFML library. Successfully and effectively implemented all base functions of the minesweeper game. This version of minesweeper have a leaderboard that keeps track of the top 5 fastest time. When the user starts a game, the timer keeps track of the time the user spent solving the puzzle. Upon finishing the game, the time will be compared to the top 5 in the leaderboard and the position will be adjusted if the new time is faster than any record on the leaderboard.
